@@ -1,0 +1,387 @@
+{
+    "letters": "abcdefghigklmnopqrstuvwxyz",
+    "colors": [
+        "FF5722",
+        "009688",
+        "3F51B5",
+        "E91E63",
+        "4CAF50",
+        "9C27B0",
+        "F44336",
+        "FFC107",
+        "2196F3"
+    ],
+    "stagesContent": [
+        "تعلم نطق الحروف",
+        "تعلم كتابه الحروف",
+        "اختبار كتابه الحروف",
+        "تعلم الكلمات",
+        "اختبار الكلمات"
+    ],
+    "numbersInArabic": [
+        "الأولى",
+        "الثانية",
+        "الثالثة",
+        "الرابعة",
+        "الخامسة",
+        "السادسة",
+        "السابعة",
+        "الثامنة",
+        "التاسعة",
+        "العاشرة"
+    ],
+    "lessons": [
+        {
+            "title": "الالوان",
+            "base": "assets/colors/",
+            "words": [
+                {
+                    "wordInArabic": "احمر",
+                    "wordInEnglish": "red",
+                    "photo": "photo.png",
+                    "color": "FF0000"
+                },
+                {
+                    "wordInArabic": "اخضر",
+                    "wordInEnglish": "green",
+                    "photo": "photo.png",
+                    "color": "00FF00"
+                },
+                {
+                    "wordInArabic": "اصفر",
+                    "wordInEnglish": "yellow",
+                    "photo": "photo.png",
+                    "color": "FFFF00"
+                },
+                {
+                    "wordInArabic": "ازرق",
+                    "wordInEnglish": "blue",
+                    "photo": "photo.png",
+                    "color": "0000FF"
+                },
+                {
+                    "wordInArabic": "برتقالي",
+                    "wordInEnglish": "orange",
+                    "photo": "photo.png",
+                    "color": "FFA500"
+                },
+                {
+                    "wordInArabic": "بنفسجي",
+                    "wordInEnglish": "purple",
+                    "photo": "photo.png",
+                    "color": "800080"
+                },
+                {
+                    "wordInArabic": "بني",
+                    "wordInEnglish": "brown",
+                    "photo": "photo.png",
+                    "color": "A52A2A"
+                },
+                {
+                    "wordInArabic": "رمادي",
+                    "wordInEnglish": "gray",
+                    "photo": "photo.png",
+                    "color": "808080"
+                },
+                {
+                    "wordInArabic": "ابيض",
+                    "wordInEnglish": "white",
+                    "photo": "photo.png",
+                    "color": "FFFFFF"
+                },
+                {
+                    "wordInArabic": "اسود",
+                    "wordInEnglish": "black",
+                    "photo": "photo.png",
+                    "color": "000000"
+                },
+                {
+                    "wordInArabic": "زهري",
+                    "wordInEnglish": "pink",
+                    "photo": "photo.png",
+                    "color": "FFC0CB"
+                }
+            ]
+        },
+        {
+            "title": "الوظائف",
+            "base": "assets/jobs/",
+            "words": [
+                {
+                    "wordInArabic": "طبيب",
+                    "wordInEnglish": "Doctor",
+                    "photo": "doctor.png"
+                },
+                {
+                    "wordInArabic": "معلم",
+                    "wordInEnglish": "Teacher",
+                    "photo": "teacher.png"
+                },
+                {
+                    "wordInArabic": "مهندس",
+                    "wordInEnglish": "Engineer",
+                    "photo": "engineer.png"
+                },
+                {
+                    "wordInArabic": "ممرضة",
+                    "wordInEnglish": "Nurse",
+                    "photo": "nurse.png"
+                },
+                {
+                    "wordInArabic": "مبرمج",
+                    "wordInEnglish": "Programmer",
+                    "photo": "programmer.png"
+                },
+                {
+                    "wordInArabic": "سائق",
+                    "wordInEnglish": "Driver",
+                    "photo": "driver.png"
+                },
+                {
+                    "wordInArabic": "شيف",
+                    "wordInEnglish": "Chef",
+                    "photo": "chef.png"
+                },
+                {
+                    "wordInArabic": "بناء",
+                    "wordInEnglish": "Builder",
+                    "photo": "builder.png"
+                },
+                {
+                    "wordInArabic": "محامي",
+                    "wordInEnglish": "Lawyer",
+                    "photo": "lawyer.png"
+                },
+                {
+                    "wordInArabic": "رسام",
+                    "wordInEnglish": "Artist",
+                    "photo": "artist.png"
+                },
+                {
+                    "wordInArabic": "عالم",
+                    "wordInEnglish": "Scientist",
+                    "photo": "scientist.png"
+                }
+            ]
+        },
+        {
+            "title": "العائلة",
+            "base": "assets/family/",
+            "words": [
+                {
+                    "wordInArabic": "عم",
+                    "wordInEnglish": "uncle",
+                    "photo": "uncle.jpg"
+                },
+                {
+                    "wordInArabic": "أخت",
+                    "wordInEnglish": "sister",
+                    "photo": "sister.jpg"
+                },
+                {
+                    "wordInArabic": "أم",
+                    "wordInEnglish": "mother",
+                    "photo": "mother.jpg"
+                },
+                {
+                    "wordInArabic": "أخت صغيرة",
+                    "wordInEnglish": "little sister",
+                    "photo": "little sister.jpg"
+                },
+                {
+                    "wordInArabic": "أخ صغير",
+                    "wordInEnglish": "little brother",
+                    "photo": "little brother.jpg"
+                },
+                {
+                    "wordInArabic": "جدة",
+                    "wordInEnglish": "grandmother",
+                    "photo": "grandmother.jpg"
+                },
+                {
+                    "wordInArabic": "جد",
+                    "wordInEnglish": "grandfather",
+                    "photo": "grandfather.jpg"
+                },
+                {
+                    "wordInArabic": "أب",
+                    "wordInEnglish": "dad",
+                    "photo": "dad.jpg"
+                },
+                {
+                    "wordInArabic": "أخ",
+                    "wordInEnglish": "brother",
+                    "photo": "brother.jpg"
+                },
+                {
+                    "wordInArabic": "عمة",
+                    "wordInEnglish": "aunt",
+                    "photo": "aunt.jpg"
+                }
+            ]
+        },
+        {
+            "title": "الفواكه",
+            "base": "assets/fruits/",
+            "words": [
+                {
+                    "wordInArabic": "المندرين",
+                    "wordInEnglish": "tangerine",
+                    "photo": "tangerine.jpg"
+                },
+                {
+                    "wordInArabic": "فراولة",
+                    "wordInEnglish": "strawberry",
+                    "photo": "strawberry.jpg"
+                },
+                {
+                    "wordInArabic": "برتقال",
+                    "wordInEnglish": "orange",
+                    "photo": "orange.jpg"
+                },
+                {
+                    "wordInArabic": "مانجو",
+                    "wordInEnglish": "mango",
+                    "photo": "mango.jpg"
+                },
+                {
+                    "wordInArabic": "كيوي",
+                    "wordInEnglish": "kiwi",
+                    "photo": "kiwi.jpg"
+                },
+                {
+                    "wordInArabic": "جوافة",
+                    "wordInEnglish": "guava",
+                    "photo": "guava.jpg"
+                },
+                {
+                    "wordInArabic": "عنب",
+                    "wordInEnglish": "grapes",
+                    "photo": "grapes.jpg"
+                },
+                {
+                    "wordInArabic": "موز",
+                    "wordInEnglish": "banana",
+                    "photo": "banana.jpg"
+                },
+                {
+                    "wordInArabic": "تفاحة",
+                    "wordInEnglish": "apple",
+                    "photo": "apple.jpg"
+                }
+            ]
+        },
+        {
+            "title": "الأرقام",
+            "base": "assets/numbers/",
+            "words": [
+                {
+                    "wordInArabic": "واحد",
+                    "wordInEnglish": "one",
+                    "photo": "one.jpg"
+                },
+                {
+                    "wordInArabic": "اثنان",
+                    "wordInEnglish": "two",
+                    "photo": "two.jpg"
+                },
+                {
+                    "wordInArabic": "ثلاثة",
+                    "wordInEnglish": "three",
+                    "photo": "three.jpg"
+                },
+                {
+                    "wordInArabic": "أربعة",
+                    "wordInEnglish": "four",
+                    "photo": "four.jpg"
+                },
+                {
+                    "wordInArabic": "خمسة",
+                    "wordInEnglish": "five",
+                    "photo": "five.jpg"
+                },
+                {
+                    "wordInArabic": "ستة",
+                    "wordInEnglish": "six",
+                    "photo": "six.jpg"
+                },
+                {
+                    "wordInArabic": "سبعة",
+                    "wordInEnglish": "seven",
+                    "photo": "seven.jpg"
+                },
+                {
+                    "wordInArabic": "ثمانية",
+                    "wordInEnglish": "eight",
+                    "photo": "eight.jpg"
+                },
+                {
+                    "wordInArabic": "تسعة",
+                    "wordInEnglish": "nine",
+                    "photo": "nine.jpg"
+                },
+                {
+                    "wordInArabic": "عشرة",
+                    "wordInEnglish": "ten",
+                    "photo": "ten.jpg"
+                }
+            ]
+        },
+        {
+            "title": "الأشياء",
+            "base": "assets/items/",
+            "words": [
+                {
+                    "wordInArabic": "مقص",
+                    "wordInEnglish": "scissors",
+                    "photo": "scissors.jpg"
+                },
+                {
+                    "wordInArabic": "مسطرة",
+                    "wordInEnglish": "ruler",
+                    "photo": "ruler.jpg"
+                },
+                {
+                    "wordInArabic": "ممحاة",
+                    "wordInEnglish": "rubber",
+                    "photo": "rubber.jpg"
+                },
+                {
+                    "wordInArabic": "قطر",
+                    "wordInEnglish": "qatar",
+                    "photo": "qatar.jpg"
+                },
+                {
+                    "wordInArabic": "قلم رصاص",
+                    "wordInEnglish": "pencil",
+                    "photo": "pencil.jpg"
+                },
+                {
+                    "wordInArabic": "حافظة قلم",
+                    "wordInEnglish": "pencil case",
+                    "photo": "pencil case.jpg"
+                },
+                {
+                    "wordInArabic": "فرشاة",
+                    "wordInEnglish": "farshah",
+                    "photo": "farshah.jpg"
+                },
+                {
+                    "wordInArabic": "قلم تلوين",
+                    "wordInEnglish": "colorpen",
+                    "photo": "colorpen.jpg"
+                },
+                {
+                    "wordInArabic": "آلة حاسبة",
+                    "wordInEnglish": "calculator",
+                    "photo": "calculator.jpg"
+                },
+                {
+                    "wordInArabic": "كتاب",
+                    "wordInEnglish": "book",
+                    "photo": "book.jpg"
+                }
+            ]
+        }
+    ]
+}
